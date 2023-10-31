@@ -1,0 +1,14 @@
+{
+  "resourceName": "edPhotoshootStorage",
+  "policyUUID": "9b980d55",
+  "bucketName": "amplifyreactappedphotoshoot",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

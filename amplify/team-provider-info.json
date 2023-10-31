@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyreactapp4f9e826d": {}
+      },
+      "api": {
+        "amplifyreactapp": {}
+      },
+      "storage": {
+        "edPhotoshootStorage": {}
       }
     }
   }
