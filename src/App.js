@@ -174,19 +174,4 @@ const App = ({ signOut, user }) => {
 	)
 }
 
-function App_Bk({ signOut, user }) {
-	return (
-		<>
-			<div>
-				<h1>Basic app</h1>
-				<h3>
-					{user.username}-{user.attributes.email}
-				</h3>
-				<p>_______________</p>
-				<button onClick={signOut}> Sing Out</button>
-			</div>
-		</>
-	)
-}
-
 export default withAuthenticator(App)

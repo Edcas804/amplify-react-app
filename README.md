@@ -26,3 +26,23 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### Amplify Scripts:
+
+#### Install amplify Cli
+
+```
+npm install -g @aws-amplify/cli
+```
+
+#### Configure the aws amplify
+
+```
+npm install -g @aws-amplify/cli
+```
+
+#### Install the aws amplify libraries
+
+```
+npm install aws-amplify @aws-amplify/ui-react
+```
